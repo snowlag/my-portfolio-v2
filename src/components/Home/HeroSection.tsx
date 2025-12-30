@@ -334,7 +334,7 @@ const HeroSection: React.FC = () => {
             transition={{ duration: 0.6, delay: 0.8 }}
           >
             <Button
-              href="https://docs.google.com/document/d/1lRVx8P7JD4FBP5pw7I8YQc9VPpKhjfYzHnySbJRD6Fs"
+              href="https://drive.google.com/file/d/1GYb1BQaYnjF7bxLMZ4TLaXP6XApYGBvG/view?usp=sharing"
               className="primary"
               target="_blank"
               rel="noopener noreferrer"
