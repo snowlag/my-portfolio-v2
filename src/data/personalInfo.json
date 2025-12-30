@@ -1,0 +1,260 @@
+{
+  "personalInfo": {
+    "name": "Ankit Jagdish Joshi",
+    "title": "Full Stack Developer (4+ Years)",
+    "email": "ankitplays5050@gmail.com",
+    "phone": ["+351 916718597", "+91 7020701904"],
+    "location": "Porto, Portugal",
+    "summary": "Transforming complex business challenges into elegant, scalable solutions. I build applications that perform at scale and deliver exceptional user experiences.",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/ankit-joshi-snowlag/",
+      "github": "https://github.com/snowlag",
+      "hackerrank": "https://www.hackerrank.com/profile/ankitjoshicr7",
+      "portfolio": "https://ankit-joshi.com"
+    }
+  },
+  "skills": {
+    "frontend": [
+      "React",
+      "VueJS",
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Material UI",
+      "Redux",
+      "Pinia",
+      "Storybook",
+      "Webpack",
+      "ESLint"
+    ],
+    "backend": [
+      "NodeJS",
+      "Express",
+      "REST APIs",
+      "GraphQL (Apollo)",
+      "SQL (Postgres and MySQL)",
+      "ORMs (Bookshelf)",
+      "Knex",
+      "Kysely",
+      "Redis",
+      "DynamoDB",
+      "MongoDB",
+      "Firebase"
+    ],
+    "cloud": [
+      "CI/CD (GitLab, GitHub, Jenkins, Kubernetes)",
+      "Terraform",
+      "Git",
+      "SonarQube",
+      "Docker",
+      "EC2",
+      "S3",
+      "IAM",
+      "Microservices",
+      "Lambda",
+      "Bash scripting",
+      "AWS Connect"
+    ],
+    "testing": [
+      "Unit & Integration Testing (Jest, Mocha, Chai)",
+      "E2E Testing (Playwright, Cypress)",
+      "TDD"
+    ],
+    "ai": ["Cursor (Coding workflow automation)", "MCP Servers"]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "company": "Envision Pharma",
+      "position": "Full Stack Developer",
+      "startDate": "01-12-2024",
+      "endDate": null,
+      "location": "Porto, Portugal",
+      "description": "Developing a medical rebate platform used by U.S. pharmaceutical manufacturers to ingest state Medicaid invoices, manage disputes, and calculate government rebate payments.",
+      "keyPoints": [
+        "Built reusable UI components in Vue.js and designed optimized PostgreSQL schemas specifically for mathematical and financial computations, ensuring correctness and performance at scale",
+        "Led the migration of legacy Bookshelf models to a Kysely-based repository pattern, enabling type-safe SQL queries, better maintainability, and clearer domain logic",
+        "Implemented backend services using Node.js, Knex, Bookshelf, and Kysely, following a clean repository and RPC-style architecture",
+        "Built an AI-assisted development workflow using Cursor by defining structured prompts, domain context, and an MCP server that parses Jira tickets, breaks problems into steps, generates implementation code and test cases, significantly improving development productivity"
+      ],
+      "skills": [
+        "Vue.js",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "Kysely",
+        "Bookshelf",
+        "Knex",
+        "SQL",
+        "Mocha",
+        "Chai",
+        "MCP"
+      ]
+    },
+    {
+      "id": 2,
+      "company": "Metyis",
+      "position": "Software Engineer L2 – Frontend Developer",
+      "startDate": "01-12-2021",
+      "endDate": "30-11-2024",
+      "location": "Porto, Portugal",
+      "description": "Developed and maintained scalable UI components for B2B e-commerce platforms serving global brands including Calvin Klein and Tommy Hilfiger.",
+      "keyPoints": [
+        "Improved webshop performance through lazy loading, bundle optimization, and preloading, increasing Dynatrace Apdex from 0.89 → 0.95",
+        "Introduced Redis caching for GraphQL APIs, reducing response times and improving overall webshop performance and stability",
+        "Worked extensively with GraphQL (Apollo), monitoring, and error reduction strategies",
+        "Strengthened code quality by enforcing strict ESLint rules, writing Jest unit tests using TDD, and upgrading Node.js from v12 to v18",
+        "Integrated SonarQube into CI pipelines to enforce static analysis and quality gate"
+      ],
+      "skills": [
+        "React",
+        "TypeScript",
+        "GraphQL",
+        "Node.js",
+        "Redis",
+        "Jest",
+        "Storybook",
+        "Webpack",
+        "SonarQube"
+      ]
+    },
+    {
+      "id": 3,
+      "company": "Niquik Technologies",
+      "position": "Software Engineer Intern – AWS Connect",
+      "startDate": "01-01-2021",
+      "endDate": "31-03-2021",
+      "location": "Remote, India",
+      "description": "Built AWS Connect–based call service infrastructure based on client requirements.",
+      "keyPoints": [
+        "Integrated Amazon Lex chatbots with AWS Lambda and AWS Connect",
+        "Customized agent CCP web pages using HTML, CSS, JavaScript, AWS SDK",
+        "Implemented reporting pipelines using Kinesis, S3, and dashboards in QuickSight"
+      ],
+      "skills": [
+        "AWS Connect",
+        "Python",
+        "NodeJS",
+        "Lambda",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "AWS SDK",
+        "S3",
+        "Kinesis",
+        "QuickSight"
+      ]
+    },
+    {
+      "id": 4,
+      "company": "Magtapp Technologies",
+      "position": "Software Engineer Intern – Full Stack Developer",
+      "startDate": "01-05-2020",
+      "endDate": "30-09-2020",
+      "location": "Remote, India",
+      "description": "Built a CMS platform using React, Node.js, and DynamoDB to manage content for an Android application.",
+      "keyPoints": [
+        "Developed dashboards and visualizations using React Highcharts and Material UI",
+        "Designed AWS microservices including Elasticsearch for content search and business use cases"
+      ],
+      "skills": [
+        "React",
+        "Node.js",
+        "DynamoDB",
+        "Express",
+        "React Highcharts",
+        "Material UI",
+        "AWS Lambda",
+        "Elasticsearch",
+        "S3"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree in Information Technology",
+      "institution": "University of Mumbai",
+      "duration": "May 2018 - May 2022",
+      "grade": "8.5"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Portfolio Website",
+      "description": "Deployed a cost-optimized portfolio on AWS EC2 using Docker, NGINX, GitHub Actions CI/CD. This modern portfolio website is built with React and TypeScript featuring beautiful CSS animations and smooth transitions.",
+      "techStack": [
+        "React",
+        "TypeScript",
+        "Styled Components",
+        "Framer Motion"
+      ],
+      "liveUrl": "https://ankit-joshi.com",
+      "sourceUrl": "https://github.com/snowlag/my-portfolio-v2",
+      "image": "/images/portfolio-project.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Covid Vaccine Availability Tracker App",
+      "description": "Android app to display covid vaccination available centers based on specific pin code of the area in India",
+      "techStack": ["Android Studio", "Java", "Firebase"],
+      "liveUrl": "https://www.youtube.com/watch?v=IPwfK4j8wpE&list=PLrDhMs9wrhYcL83ZOikIA5vpp9xdFvLRC",
+      "sourceUrl": "https://github.com/snowlag/Indian-Covid-Vaccine-Availability-App",
+      "image": "/images/covid-tracker.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Rise of Dungeons: The LostLands",
+      "description": "High fantasy action-adventure RPG game designed for console",
+      "techStack": ["C#", "Unity", "Blender"],
+      "liveUrl": "https://www.youtube.com/watch?v=MeYhCzzdzj8",
+      "sourceUrl": "https://drive.google.com/file/d/1EkXrQzmNW5ftq2l0RT5AoxyNGIvJyrh8/view",
+      "image": "/images/rise-of-dungeons.jpg"
+    },
+    {
+      "id": 4,
+      "title": "React Resume Builder",
+      "description": "React app which takes users data and generate free resume which can be previewed and downloaded in pdf format",
+      "techStack": ["React", "JavaScript", "HTML", "CSS"],
+      "liveUrl": "https://csb-7ts1w.netlify.app/",
+      "sourceUrl": "https://github.com/snowlag/React-Resume-Builder",
+      "image": "/images/resume-builder.jpg"
+    }
+  ],
+  "achievements": [
+    "Outstanding performance as Developer in Tech Team",
+    "Received certificate of appreciation from Magtapp technologies during internship for the month august 2020",
+    "Silver in Swimming in Western Zone of India - Secured silver medal in swimming in western zone of India and was selected to compete in under 12 nationals"
+  ],
+  "volunteering": [
+    {
+      "role": "Technical Team Lead",
+      "organization": "Google Developer Student Club",
+      "duration": "1 Year",
+      "description": "Developing website for club in MERN stack and managing team of 5 developers to deliver Web related projects to local communities."
+    },
+    {
+      "role": "Student Representative",
+      "organization": "University of Mumbai",
+      "duration": "9 months",
+      "description": "Assisted in college festivals, conducted hackathons, securing sponsorships for events and budget management"
+    },
+    {
+      "role": "Web Development Instructor",
+      "organization": "University of Mumbai",
+      "duration": "Multiple Sessions",
+      "description": "Conducted technical sessions for students to teach web development by developing real time chat application"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Web-based 3D Visualization Tools to Demonstrate the Working of Sorting and Pathfinding Algorithm",
+      "description": "This paper focuses on introducing web-based visualization tools that demonstrates the working of famous sorting and pathfinding algorithms. These tools aim toward providing abstract thinking to different algorithms by making use of animations and 3D models which will stimulate the working of each separate algorithm in a unique way using React, React Three Fiber and TweenJs.",
+      "journal": "International Journal of Computer Applications (IJCA – May 2022 Edition)",
+      "url": "http://www.ijcaonline.org/archives/volume184/number12/32375-2022922096"
+    }
+  ]
+}
